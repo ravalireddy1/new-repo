@@ -15,6 +15,7 @@ sleep(5)
 driver.find_element(By.NAME, "login").click()
 sleep
 driver.close()
+driver.quit()
 
 
 
