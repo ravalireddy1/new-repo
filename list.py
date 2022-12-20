@@ -14,4 +14,4 @@ list=[1,2,3,9,4,5,2,8]
 #del list[0]
 #print(list)
 new=[x+2 for x in list]
-print(new)
+print("new")
